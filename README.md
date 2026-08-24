@@ -18,7 +18,7 @@
                    computer eng. student [4/10]   ;   data eng. enthusiast
                       data validation treatment   ;   developing projects.
           {python} {pyspark} {sql} {excel} {bi}   ;   expertise
-              gaming  tcg  music  clothes  tech   ;   Masc. 20yr.
+              gaming  tcg  music  clothes  tech   ;   Masc. 20yr. Santos/SP.
                                      job offer?   ;   send an email :)
                                       _________________________
 ```
