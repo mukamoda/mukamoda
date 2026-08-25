@@ -9,7 +9,7 @@
 --->
 
 <p>
-<img align="right" src="assets/profile_pic.jpg" width="230"  /> 
+<img align="right" src="assets/profile_pic.jpg" width="200"  /> 
 
 ```
                                           mukão's cozy nook
