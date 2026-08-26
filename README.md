@@ -94,7 +94,7 @@ __ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
 
 <br><br>
 
-<img align="center" src="assets/eye.jpg" width="200"  /> 
+<img align="center" src="assets/moon.gif" width="600" weight="200" /> 
 
 <br><br><br><br>
 
