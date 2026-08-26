@@ -86,13 +86,16 @@ __________ ____________ ___ _____ ___ _ ____ _ _ __ ____ __
   </tr>
 </table>
     
-<br>
-<br>
-<br>
-<br>
+<p align="right">
+__ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
+</p>
 
+<h1 align="right"> 𝚜𝚘𝚏𝚝 𝚜𝚔𝚒𝚕𝚕𝚜. </h1>
 
-<p align= "right" font-size="24px" font-weight= "bold">This text is aligned to the right.</p>
+<br><br><br><br>
 
-
-
+<p align="center">
+  <a href="https://github.com/mukamoda">
+    <img src="https://ghchart.rshah.org/512BD4/mukamoda" alt="graph" />
+  </a>
+</p>
