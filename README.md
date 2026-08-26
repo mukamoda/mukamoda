@@ -92,6 +92,10 @@ __ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
 
 <h1 align="right"> 𝚜𝚘𝚏𝚝 𝚜𝚔𝚒𝚕𝚕𝚜. </h1>
 
+<br><br>
+
+<img align="center" src="assets/eye.jpg" width="200"  /> 
+
 <br><br><br><br>
 
 <p align="center">
@@ -99,3 +103,5 @@ __ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
     <img src="https://ghchart.rshah.org/512BD4/mukamoda" alt="graph" />
   </a>
 </p>
+
+
