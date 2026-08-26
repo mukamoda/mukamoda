@@ -32,10 +32,10 @@ __________ ____________ ___ _____ ___ _ ____ _ _ __ ____ __
   
 </p>
 
-<table style="border: none; border-collapse: collapse; width: 90%;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
-      <table style="border: none; border-collapse: collapse; width: 90%;">
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+      <table style="border: none; border-collapse: collapse; width: 100%;">
         <!-- Linha: Linguagens -->
         <tr style="border: none;">
           <td style="border: none; padding: 10px 0; vertical-align: middle;">
