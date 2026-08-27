@@ -13,7 +13,7 @@
 
 ```
                                           mukão's cozy nook
-                                        "𝖏𝖚𝖓𝖎𝖔𝖗 𝖘𝖞𝖘𝖙𝖊𝖒𝖘 𝖆𝖓𝖆𝖑𝖞𝖘𝖙"
+                                        "𝗃𝗎𝗇𝗂𝗈𝗋 𝗌𝗒𝗌𝗍𝖾𝗆𝗌 𝖺𝗇𝖺𝗅𝗒𝗌𝗍"
                                _______________________________________
                    computer eng. student [4/10]   ;   data eng. enthusiast
                       data validation treatment   ;   developing projects.
