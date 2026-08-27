@@ -92,13 +92,10 @@ __ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
 
 <h1 align="right"> 𝚜𝚘𝚏𝚝 𝚜𝚔𝚒𝚕𝚕𝚜. </h1>
 
-<br><br><br><br>
-
-
-<br><br><br><br>
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/github-dark-pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/github-pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mukamoda/mukamoda/output/github-pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph.svg">
 </picture>
