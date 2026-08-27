@@ -94,18 +94,11 @@ __ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
 
 <br><br><br><br>
 
-<p align="center">
-  <a href="https://github.com/mukamoda">
-    <img src="https://ghchart.rshah.org/512BD4/mukamoda" alt="graph" />
-  </a>
-</p>
 
 <br><br><br><br>
 
-<img align="center" src="assets/moon.gif" width="600" weight="200" /> 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/github-dark-pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/github-pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mukamoda/mukamoda/output/github-pacman-contribution-graph.svg">
 </picture>
