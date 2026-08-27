@@ -13,7 +13,7 @@
 
 ```
                                           mukão's cozy nook
-                                             "𝐢 𝐥𝐢𝐤𝐞 𝐫𝐢𝐜𝐞"
+                                        "𝖏𝖚𝖓𝖎𝖔𝖗 𝖘𝖞𝖘𝖙𝖊𝖒𝖘 𝖆𝖓𝖆𝖑𝖞𝖘𝖙"
                                _______________________________________
                    computer eng. student [4/10]   ;   data eng. enthusiast
                       data validation treatment   ;   developing projects.
