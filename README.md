@@ -92,10 +92,6 @@ __ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
 
 <h1 align="right"> 𝚜𝚘𝚏𝚝 𝚜𝚔𝚒𝚕𝚕𝚜. </h1>
 
-<br><br>
-
-<img align="center" src="assets/moon.gif" width="600" weight="200" /> 
-
 <br><br><br><br>
 
 <p align="center">
@@ -104,4 +100,12 @@ __ ____ __ _ _ ____ _ ___ _____ ___ ____________ __________
   </a>
 </p>
 
+<br><br><br><br>
 
+<img align="center" src="assets/moon.gif" width="600" weight="200" /> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mukamoda/mukamoda/output/pacman-contribution-graph.svg">
+</picture>
